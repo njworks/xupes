@@ -1,0 +1,13 @@
+
+=squid:S1170"!Make this final field static too.(„“áşÿÿÿÿ
+isquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(ôåèÎ8ã÷ÚÀÿ-
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÓÒÒÃ
+rsquid:UselessImportCheck"NRemove this unused import 'com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput'.(ÓÒÒÃ
+<squid:S2068" Remove this hard-coded password.(¹±¢Şùÿÿÿÿ
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(²±ü£8ÅˆÁÿ-
+hsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(•ãğO8ß¤ Áÿ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İï«äùÿÿÿÿ
+Vsquid:S1161":Add the "@Override" annotation above this method signature(ÇĞüÇùÿÿÿÿ
+8squid:S1170"!Make this final field static too.(»¸ö˜
+isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(âæ˜ÿ8ËÁÿ-

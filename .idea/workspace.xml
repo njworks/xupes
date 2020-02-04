@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="167676e0-3a95-49fc-8989-5ee22636ef3c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X5JhYH34bKJp6nMghdf89KmYmn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.BookRetrievalTests">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookLibrary.Main" />
+      <module name="Books" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BookLibrary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookRetrievalTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Books" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BookLibraryTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BookLibraryTests" />
+      <option name="MAIN_CLASS_NAME" value="BookLibraryTests.BookRetrievalTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookRetrievalTests.getAuthorBasedOnBookCorrectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Books" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BookLibraryTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BookLibraryTests" />
+      <option name="MAIN_CLASS_NAME" value="BookLibraryTests.BookRetrievalTests" />
+      <option name="METHOD_NAME" value="getAuthorBasedOnBookCorrectTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookRetrievalTests.getAuthorBasedOnBookOneWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Books" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BookLibraryTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BookLibraryTests" />
+      <option name="MAIN_CLASS_NAME" value="BookLibraryTests.BookRetrievalTests" />
+      <option name="METHOD_NAME" value="getAuthorBasedOnBookOneWord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookRetrievalTests" />
+        <item itemvalue="JUnit.BookRetrievalTests.getAuthorBasedOnBookOneWord" />
+        <item itemvalue="JUnit.BookRetrievalTests.getAuthorBasedOnBookCorrectTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="167676e0-3a95-49fc-8989-5ee22636ef3c" name="Default Changelist" comment="" />
+      <created>1580330141610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580330141610</updated>
+      <workItem from="1580330146880" duration="9421000" />
+      <workItem from="1580414011904" duration="2446000" />
+      <workItem from="1580416598305" duration="8088000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="77" key="#Notifications" timestamp="1580416606105">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="77" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1580416606105" />
+    <state x="361" y="77" key="#Plugins" timestamp="1580416633825">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="77" key="#Plugins/0.0.1536.834@0.0.1536.834" timestamp="1580416633825" />
+    <state x="574" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1580427369860">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1580427369860" />
+    <state x="449" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580416457166">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1580416457166" />
+    <state x="523" y="29" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580420600546">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="523" y="29" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1580420600546" />
+    <state x="499" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580426299826">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1580426299826" />
+    <state x="549" y="145" key="FileChooserDialogImpl" timestamp="1580466728035">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="145" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1580466728035" />
+    <state width="1493" height="317" key="GridCell.Tab.0.bottom" timestamp="1580466857846">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="317" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1580466857846" />
+    <state width="1493" height="317" key="GridCell.Tab.0.center" timestamp="1580466857846">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="317" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1580466857846" />
+    <state width="1493" height="317" key="GridCell.Tab.0.left" timestamp="1580466857846">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="317" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1580466857846" />
+    <state width="1493" height="317" key="GridCell.Tab.0.right" timestamp="1580466857846">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="317" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1580466857846" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1580330661616">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580330661616" />
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1580416599919">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1580416599919" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1580416615047">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1580416615047" />
+  </component>
+</project>
